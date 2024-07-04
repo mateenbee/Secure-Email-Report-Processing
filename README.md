@@ -1,6 +1,6 @@
 # Secure Email Report Processing Automation
 
-This README provides instructions for automating the retrieval of Payroll Items from a secure email attachment, downloading the PDF report, and sending it for easy access by other departments.
+This README provides instructions for automating the retrieval of Payroll Items from a secure email attachment, downloading the PDF report, and sending it for easy access by other departments using UiPath platform.
 ## Instructions
 
 1. **Cleanup the downloads folder:**
